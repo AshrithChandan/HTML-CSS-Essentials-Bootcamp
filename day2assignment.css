@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(241, 206, 160);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.special-div {
+    background-color: #87ecce; 
+    color: rgb(132, 123, 253); 
+    padding: 20px; 
+}
+
+h1, h2 {
+    font-family: "Your Unique Font", sans-serif;
+}
+
+section {
+    border: 1px solid rgb(15, 6, 0); 
+    border-radius: 10px; 
+    padding: 10px; 
+    margin-bottom: 20px; 
+}
+section.skills li:hover {
+    color: #ff0000;
+    cursor: pointer; 
+}
